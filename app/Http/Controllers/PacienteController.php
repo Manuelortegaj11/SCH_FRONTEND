@@ -42,9 +42,9 @@ class PacienteController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(Paciente $paciente)
+    public function edit(Paciente $id)
     {
-        //
+        return view('pacientes.pacienteEdit');
     }
 
     /**

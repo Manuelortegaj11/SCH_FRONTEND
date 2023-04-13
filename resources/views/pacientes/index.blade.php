@@ -33,7 +33,7 @@
                     <td>1004826382</td>
                     <td>3067423892</td>
                     <td>WilliamP@gmail.com</td>
-                    <td><a href="" class="edit-form-data" data-toggle="modal" data-target="#editMdl">
+                    <td><a href="{{ url('/pacientes/1/edit') }}" class="edit-form-data">
                         <!-- <i class="fa-solid fa-edit"></i> -->
                         <i class="fa-solid fa-folder-open"></i>
                     </a></td>

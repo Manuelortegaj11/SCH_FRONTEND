@@ -25,13 +25,31 @@
                 </ul>
                 <div class="tab-content" id="myTabContent0">
                     <div class="tab-pane fade show active" id="home0" role="tabpanel" aria-labelledby="home-tab0">
-                        @include('pacientes.pacienteFormA',['modo'=>'Crear'])
+                    <div class="card text-dark">
+                        <div class="card-body">
+                            <form action ="" method="" enctype="multipart/form-data">
+                        @include('pacientes.pacienteFormA',['modo'=>'Editar'])
+                            </form>
+                        </div>
+                    </div>
                     </div>
                     <div class="tab-pane fade" id="profile0" role="tabpanel" aria-labelledby="profile-tab0">
-                        @include('pacientes.pacienteFormB',['modo'=>'Crear'])
+                    <div class="card text-dark">
+                        <div class="card-body">
+                            <form action ="" method="" enctype="multipart/form-data">
+                        @include('pacientes.pacienteFormB',['modo'=>'Editar'])
+                        </form>
+                        </div>
+                    </div>
                     </div>
                     <div class="tab-pane fade" id="contact0" role="tabpanel" aria-labelledby="contact-tab0">
-                        @include('pacientes.pacienteFormC',['modo'=>'Crear'])
+                    <div class="card text-dark">
+                        <div class="card-body">
+                            <form action ="" method="" enctype="multipart/form-data">
+                        @include('pacientes.pacienteFormC',['modo'=>'Editar'])
+                            </form>
+                        </div>
+                    </div>
                     </div>
                 </div>
             </form>
