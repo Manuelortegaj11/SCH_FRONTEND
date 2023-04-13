@@ -1,0 +1,7 @@
+.edit-form-data > i.fa-folder-open{
+    color:rgb(0, 0, 0);
+}
+
+.delete-form-data > i.fa-trash-alt{
+    color:rgb(128, 0, 0);
+}
