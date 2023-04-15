@@ -28,7 +28,7 @@
     
     <div class="col-6">
     <label for="">Ocupacion:</label>
-    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     <br>
@@ -44,7 +44,7 @@
     
     <div class="col-6">
     <label for="">Discapacidad:</label>
-    <input class="form-control" type="text" name="" value=""  id="Nombre">
+    <input class="form-control" type="text" name="" value=""  id="">
     </div>
 
 
@@ -69,21 +69,21 @@
     <div class="row">
     <div class="col-4">
     <label for="">Zona:</label>
-    <input class="form-control" type="text" name="" value=""  id="Nombre">
+    <input class="form-control" type="text" name="" value=""  id="">
     </div>
 
     <br>
     
     <div class="col-4">
     <label for="">Celular:</label>
-    <input class="form-control"  type="text" name="" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     <br>
 
     <div class="col-4">
     <label for="">Otro:</label>
-    <input class="form-control"  type="text" name="" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     </div>

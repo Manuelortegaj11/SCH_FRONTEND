@@ -6,7 +6,7 @@
     
     <div class="col-6">
     <label for="">Identificacion:</label>
-    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="">
     </div>
 
     </div>
@@ -14,13 +14,13 @@
     <div class="row">
     <div class="col-6">
     <label for="">Primer nombre:</label>
-    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="">
     </div>
     <br>
     
     <div class="col-6">
     <label for="">Segundo nombre:</label>
-    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     </div>
@@ -29,14 +29,14 @@
     <div class="row">
     <div class="col-6">
     <label for="">Primer apellido:</label>
-    <input class="form-control" type="text" name="Nombre" value=""  id="Nombre">
+    <input class="form-control" type="text" name="" value=""  id="">
     </div>
 
     <br>
     
     <div class="col-6">
     <label for="">Segundo apellido:</label>
-    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     <br>
@@ -47,14 +47,14 @@
     <div class="row">
     <div class="col-6">
     <label for="">Fecha de nacimiento:</label>
-    <input class="form-control" type="date" name="" value=""  id="Nombre">
+    <input class="form-control" type="date" name="" value=""  id="">
     </div>
 
     <br>
     
     <div class="col-6">
     <label for="">Lugar de nacimiento:</label>
-    <input class="form-control"  type="text" name="" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     </div>

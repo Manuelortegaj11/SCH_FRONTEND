@@ -174,11 +174,13 @@
     <!-- Custom scripts for all pages-->
     <script src="{{asset('libs/sch/js/sb-admin-2.min.js')}}"></script>
     <script src="https://kit.fontawesome.com/69e7cbc764.js" crossorigin="anonymous"></script>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js" integrity="sha512-..."></script>
 
     @stack('scripts')
     <script src="{{asset('/js/main.js')}}"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js" integrity="sha512-..."></script>
+
 
     
 

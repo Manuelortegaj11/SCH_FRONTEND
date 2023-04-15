@@ -6,9 +6,9 @@
 
 @section('contenido')
     <div class="md:flex md:justify-center md:gap-0 md:items-center">
-
+    <!-- <div class="md:w-6/12 p-5"> -->
         <div class="md:w-6/12 p-5">
-            <img class="border-double border-4 border-indigo-600" src="{{ asset('img/E.png')  }}" alt="Imagen registro de usuarios">
+            <img class="border-double border-4 border-x-indigo-500" src="{{ asset('img/E.png')  }}" alt="Imagen registro de usuarios">
         </div>
 
 

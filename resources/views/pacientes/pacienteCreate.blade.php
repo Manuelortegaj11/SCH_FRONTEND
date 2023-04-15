@@ -1,7 +1,7 @@
 @extends('layouts.admin')
 @section('titulo')
 <div class="">
-<h1  class="fa-solid fa-user-doctor"></h1>
+<h1  class="fa-solid fa-user"></h1>
 </div>
 @endsection
 

@@ -23,7 +23,7 @@
     <div class="row">
     <div class="col-6">
     <label for="">Identificacion cotizante:</label>
-    <input class="form-control" type="text" name="Nombre" value=""  id="Nombre">
+    <input class="form-control" type="text" name="" value=""  id="Nombre">
     </div>
 
     <br>
@@ -44,7 +44,7 @@
     
     <div class="col-6">
     <br>
-    <button class="btn btn-primary"  type="text" name="" value="" id="ApellidoPaterno">Agregar</button>
+    <button class="btn btn-primary"  type="text" name="" value="" id="">Agregar</button>
     </div>
 
     </div>

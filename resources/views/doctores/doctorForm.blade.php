@@ -6,7 +6,7 @@
     
     <div class="col-6">
     <label for="">Estado Administrativo:</label>
-    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     </div>
@@ -18,7 +18,7 @@
     
     <div class="col-6">
     <label for="">Identificación:</label>
-    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     </div>
@@ -27,14 +27,14 @@
     <div class="row">
     <div class="col-4">
     <label for="">Fecha de nacimiento:</label>
-    <input class="form-control" type="date" name="Nombre" value=""  id="Nombre">
+    <input class="form-control" type="date" name="" value=""  id="">
     </div>
 
     <br>
     
     <div class="col-4">
     <label for="">Nombre:</label>
-    <input class="form-control"  type="text" name="ApellidoPaterno" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     <br>
@@ -77,7 +77,7 @@
     
     <div class="col-4">
     <label for="">Correo:</label>
-    <input class="form-control"  type="text" name="" value="" id="ApellidoPaterno">
+    <input class="form-control"  type="text" name="" value="" id="">
     </div>
 
     <br>

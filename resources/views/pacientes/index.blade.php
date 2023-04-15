@@ -2,7 +2,7 @@
 
 @section('titulo')
 <div class="">
-<h1  class="fa-solid fa-user-doctor"></h1>
+<span><i class="fa-solid fa-user"></i> Pacientes</span>
 </div>
 @endsection
 
@@ -33,15 +33,18 @@
                     <td>1004826382</td>
                     <td>3067423892</td>
                     <td>WilliamP@gmail.com</td>
-                    <td><a href="{{ url('/pacientes/1/edit') }}" class="edit-form-data">
-                        <!-- <i class="fa-solid fa-edit"></i> -->
-                        <i class="fa-solid fa-folder-open"></i>
-                    </a></td>
-                    <td><a href="" class="delete-form-data" data-toggle="modal" data-target="#deleteMdl">
-                        <!-- <i class="fa-solid fa-trash"></i> -->
-                        <i class="far fa-trash-alt"></i>
-                    </a></td>
+                    <td><a href="{{ url('/pacientes/1/edit') }}" class="edit-form-data"><i class="fa-solid fa-folder-open"></i></a></td>
+                    <td><a href="" class="delete-form-data"><i class="far fa-trash-alt"></i></a></td>
                 </tr>
+                <tr class="text-center">
+                    <td>Manuel Ortega</td>
+                    <td>1010119993</td>
+                    <td>3044620556</td>
+                    <td>manuelortegajuvinao@gmail.com</td>
+                    <td><a href="{{ url('/pacientes/1/edit') }}" class="edit-form-data"><i class="fa-solid fa-folder-open"></i></a></td>
+                    <td><a href="" class="delete-form-data"><i class="far fa-trash-alt"></i></a></td>
+                </tr>
+                
             </tbody>
         </table>
     </div>
