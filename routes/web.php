@@ -27,6 +27,7 @@ Route::get('/', function () {
 //     return view('home.index');
 // });
 Route::get('/register',[RegisterController::class, 'index'])->name('register');
+Route::post('/register',[RegisterController::class, 'store'])->name('register');
 Route::get('/login',[LoginController::class,'index'])->name('login');
 Route::get('/panel-administrativo',[HomeController::class, 'index'])->name('home');
 Route::resource('/pacientes',PacienteController::class);
